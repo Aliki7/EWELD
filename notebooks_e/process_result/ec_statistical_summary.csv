@@ -1,0 +1,46 @@
+Section,Division,Mean,Standard deviation,Skew,Kurtosis,0th percentile,2.5th percentile,50th percentile,97.5th percentile,100th percentile
+A,"A01 Crop and animal production, hunting and related service activities",29.85,62.89,4.22,19.57,0.00,0.00,8.35,270.89,444.46
+A,A02 Forestry and logging,42.95,78.73,2.88,8.26,0.00,0.00,8.87,325.91,438.98
+C,C10 Manufacture of food products,48.56,47.75,0.83,-0.34,0.00,0.00,31.81,154.16,217.78
+C,C11 Manufacture of beverages,30.89,37.85,0.79,-1.11,0.00,0.00,10.15,103.76,124.06
+C,C13 Manufacture of textiles,64.44,105.50,2.07,3.67,0.00,0.00,15.18,356.50,584.76
+C,C14 Manufacture of wearing apparel,43.28,70.11,2.22,4.55,0.00,0.00,10.31,266.65,375.54
+C,C15 Manufacture of leather and related products,100.26,181.77,2.50,5.18,0.00,0.00,29.21,729.53,800.70
+C,"C16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",27.65,37.55,1.29,0.57,0.00,0.00,4.42,124.27,142.73
+C,C17 Manufacture of paper and paper products,18.29,34.45,3.46,16.82,0.00,0.00,0.84,123.06,284.53
+C,C18 Printing and reproduction of recorded media,19.07,27.96,2.12,4.82,0.00,0.00,6.32,105.94,165.03
+C,C20 Manufacture of chemicals and chemical products,20.09,21.93,1.00,-0.21,0.00,0.34,8.90,71.28,84.74
+C,"C21 Manufacture of pharmaceuticals, medicinal chemical and botanical products",14.85,20.69,1.69,1.62,0.00,0.00,5.29,72.41,80.61
+C,C22 Manufacture of rubber and plastics products,38.08,52.88,2.00,4.03,0.00,0.00,19.56,203.74,504.42
+C,C23 Manufacture of other non-metallic mineral products,167.99,491.45,4.56,22.87,0.00,0.00,11.03,1896.59,4301.05
+C,C24 Manufacture of basic metals,221.65,399.54,2.44,5.99,0.00,0.00,21.46,1521.94,2624.03
+C,"C25 Manufacture of fabricated metal products, except machinery and equipment",72.21,260.87,12.66,232.17,0.00,0.00,12.44,513.06,7977.20
+C,"C26 Manufacture of computer, electronic and optical products",57.33,97.43,2.43,5.92,0.00,0.00,14.59,350.55,634.44
+C,C27 Manufacture of electrical equipment,12.80,9.25,0.71,0.20,0.00,0.00,11.75,35.65,41.13
+C,C28 Manufacture of machinery and equipment n.e.c,26.49,65.39,5.62,35.25,0.00,0.00,8.13,197.32,614.77
+C,"C29 Manufacture of motor vehicles, trailers and semi-trailers",28.79,93.73,4.30,19.74,0.00,0.00,0.22,369.05,737.29
+C,C31 Manufacture of furniture,17.01,31.90,3.48,18.27,0.00,0.00,2.91,113.63,419.23
+C,C32 Other manufacturing,79.00,167.76,2.85,8.09,0.00,0.00,6.52,642.58,979.13
+C,C33 Repair and installation of machinery and equipment,7.20,7.17,0.35,-1.31,0.00,0.00,7.22,20.63,23.85
+D,"D35 Electricity, gas, steam and air conditioning supply",16.30,11.03,0.39,-0.32,0.00,0.13,16.10,39.66,53.45
+E,E37 Sewerage,49.96,91.12,2.17,3.59,0.00,0.00,14.60,331.09,377.66
+F,F41 Construction of buildings,3.34,4.01,1.69,1.93,0.00,0.00,1.85,14.78,16.01
+F,F42 Civil engineering,17.03,42.25,2.70,6.33,0.00,0.00,0.00,160.16,214.27
+F,F43 Specialized construction activities,9.97,9.08,1.07,0.17,0.00,0.74,6.17,32.14,39.38
+G,G45 Wholesale and retail trade and repair of motor vehicles and motorcycles,79.68,160.05,3.99,18.50,0.00,0.00,29.49,589.58,1280.84
+H,H52 Warehousing and support activities for transportation,5.49,6.08,1.50,1.38,0.00,0.00,2.77,22.35,25.79
+H,H53 Postal and courier activities,20.49,19.14,0.70,-0.38,0.00,0.00,17.09,63.78,82.00
+I,I55 Accommodation,98.18,86.96,0.45,-1.00,0.00,0.00,87.63,264.84,341.75
+I,I56 Food and beverage service activities,22.31,21.34,1.74,3.55,0.00,0.00,17.31,83.91,136.94
+J,"J62 Computer programming, consultancy and related activities",3.90,2.86,2.77,9.57,0.00,1.06,3.18,13.23,21.70
+K,"K64 Financial service activities, except insurance and pension funding",20.89,37.82,3.01,9.50,0.00,0.00,6.03,164.50,219.69
+K,K66 Activities auxiliary to financial service and insurance activities,37.33,30.38,1.04,-0.39,0.00,11.84,19.68,104.52,122.08
+L,L68 Real estate activities,36.29,60.24,2.97,11.52,0.00,0.00,12.44,208.44,546.44
+M,M71 Architectural and engineering activities; technical testing and analysis,8.68,12.98,1.79,1.95,0.00,0.81,2.09,45.54,52.77
+N,N80 Security and investigation activities,22.28,29.03,1.85,3.10,0.00,0.00,15.54,109.96,140.02
+N,"N82 Office administrative, office support and other business support activities",22.15,22.78,1.87,5.43,0.00,0.00,18.50,84.14,151.54
+O,O84 Public administration and defence; compulsory social security,20.79,33.93,3.55,16.25,0.00,0.00,8.39,119.69,299.27
+P,P85 Education,24.24,58.45,4.99,30.90,0.00,0.00,3.03,193.80,631.64
+Q,Q86 Human health activities,41.87,46.46,2.00,5.29,0.00,0.00,33.19,165.67,283.94
+Q,Q87 Residential care activities,16.33,18.55,1.75,3.31,0.00,0.00,10.46,73.72,101.99
+S,S96 Other personal service activities,17.53,23.26,1.06,-0.30,0.00,0.00,1.77,70.10,86.84
